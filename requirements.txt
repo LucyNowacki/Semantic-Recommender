@@ -1,0 +1,7 @@
+## Installation
+
+This project requires Python 3.6+ to run. Additionally, you may need to install some specific packages such as `numpy`, `pandas`, `scikit-learn`, `umap-learn`, and `hdbscan`. You can install these packages using `pip`:
+
+```bash
+pip install numpy pandas scikit-learn umap-learn hdbscan sentence-transformers matplotlib-venn jupyterthemes
+
